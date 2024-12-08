@@ -1,3 +1,1 @@
-{
-  "settingsInheritedFrom": "ghc-automation-parallel-9-p2/whitesource-config@main"
-}
+{"settingsInheritedFrom": "ghc-automation-parallel-9-p2/whitesource-config@main", "issueSettings": {"minSeverityLevel": "HIGH"}}
